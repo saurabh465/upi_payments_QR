@@ -17,11 +17,13 @@ This simple Python script generates a **QR code for UPI payments** using your UP
 ## 🛠️ Requirements
 
 - Python 3.x
-- `qrcode` library  
+- `qrcode` library
+- pillow library 
   Install via pip:
 
   ```bash
-  pip install qrcode[pil]
+  pip install qrcode
+  pip install pillow
 
 
 
